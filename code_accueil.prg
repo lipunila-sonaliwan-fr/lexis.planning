@@ -26,6 +26,6 @@ procedure BTNOK_CLIC(ev)
   si formaccueil.minuterie:actif()
     formaccueil.minuterie:arreter()
   finsi
-  formaccueil.fenetre:fermer()
   MENUPLAN()
+  formaccueil.fenetre:fermer()
 finprocedure

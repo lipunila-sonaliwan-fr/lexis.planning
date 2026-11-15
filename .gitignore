@@ -1,3 +1,4 @@
 .DS_Store
 .wdlexis/atelier.json
 /distribution
+.wdlexis/application.ini
